@@ -1,6 +1,6 @@
 # Welcome to Snowie Studio!
 
-**Snowie Studio** is an indie game and app development brand founded by Rafi from Bangladesh.
+**Snowie Studio** is an indie game and app development brand founded by Newaz Hossain Rafi from Bangladesh.
 
 ---
 
@@ -9,22 +9,22 @@
 - Develop PC and Android games  
 - Create developer tools and utility apps  
 - Work on open-source projects  
-- Build games with Python, C++ & Unreal Engine
+- Build games with Python, C++ & Unreal Engine & C# With Godit Engine For Retro Game 
 
 ---
 
 ## Current Projects
 
 - Learning: Python, C++, Unreal Engine  
-- Mobile App Development: Flutter  
-- Game: **Snowie: A Mission** (coming soon)
+- Mobile App Development: Kotlin  
+- Game: **Snowie's Mission** (coming soon)
 
 ---
 
 ## Contact Us
 
 - **Email:** snowiestudio@gmail.com  
-- **Founder:** Rafi (15 y/o Developer & Student)  
+- **Founder:**Newaz Hossain Rafi (15 y/o Developer & Student)  
 - **Country:** Bangladesh
 
 ---
